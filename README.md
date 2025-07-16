@@ -1,4 +1,5 @@
 Plugin: Add Photos to QGIS
+
 This plugin allows you to quickly and easily add multiple photos to a QGIS attribute table. Unlike other tools, this plugin lets you add many files at once instead of doing it one by one. Although the plugin interface is in Catalan, here's a step-by-step explanation of how it works..
 
 
