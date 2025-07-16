@@ -4,6 +4,7 @@ This plugin allows you to quickly and easily add multiple photos to a QGIS attri
 
 
 Plugin Interface Overview
+
 The graphical interface of the plugin includes the following elements:
 
 <img width="258" height="253" alt="image" src="https://github.com/user-attachments/assets/39f757c0-ac6a-4018-ada4-5808c86b9656" />
