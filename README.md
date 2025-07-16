@@ -24,9 +24,9 @@ Choose the folder that contains your photo or document files.
 5. Format de document (Document Format)
 Select the file format of your documents. Currently supported formats are:
 
-PDF
+  - PDF
 
-PNG
+  - PNG
 
-JPEG
+  - JPEG
 
